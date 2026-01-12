@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねねちのギラギラファンミーティング",
+  "base_artist": "桃鈴ねね",
+  "createdAt": "2026-01-12T09:11:06.969160Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねねちのギラギラファンミーティング",
+      "artist": "桃鈴ねね",
+      "has_synced": false,
+      "path": "select/pl_01_ねねちのギラギラファンミーティング_桃鈴ねね.txt"
+    }
+  ]
+}
